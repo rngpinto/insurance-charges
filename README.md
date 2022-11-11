@@ -8,7 +8,7 @@ The dataset of this study is related to several attributes of clients of an insu
 Following descriptive statistics and data preparation, in the modeling stage, the data was divided into train and test and several predictive models were applied. 
 In the evaluation stage, it was assessed which model reached a higher score.
 
-This dataset was extracted from kaggle.com
+This dataset was extracted from kaggle.com and the study was part of the Linkedin Learning "Python: Working with Predictive Analytics" course
 
 
 ### Keywords: CRISP-DM, supervised learning, predictive analysis, insurance, charges, python
